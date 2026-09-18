@@ -181,5 +181,25 @@ cafe-al-minuto/
 ```bash
 pip install -r requirements.txt
 python src/generate_data.py
-```
+---
 
+## Reflexión final
+
+**Café al Minuto** nació de una idea sencilla: detrás de cada pedido hay una persona, y detrás de cada número puede existir una historia.
+
+El objetivo de este proyecto fue demostrar cómo los datos pueden ayudar a entender no solo **cuánto vende un negocio**, sino también **cuándo vende, qué prefieren sus clientes, cómo funciona su operación y qué impacto puede tener la experiencia en el comportamiento futuro**.
+
+Más que buscar una respuesta única, el análisis busca transformar datos en **preguntas mejores, hipótesis y decisiones que puedan medirse**.
+
+> **Los datos muestran lo que está pasando. El análisis ayuda a entender por qué podría estar pasando. Y una buena decisión convierte ese conocimiento en acción.**
+
+---
+
+<p align="center">
+  ☕ <strong>Café al Minuto</strong><br>
+  <sub>Data Analytics · Business Intelligence · Toma de decisiones basada en datos</sub>
+</p>
+
+<p align="center">
+  <sub>Proyecto de portfolio desarrollado con datos sintéticos y un enfoque orientado a negocio.</sub>
+</p>
