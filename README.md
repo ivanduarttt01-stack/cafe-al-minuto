@@ -183,12 +183,3 @@ pip install -r requirements.txt
 python src/generate_data.py
 ```
 
-## Descripción para CV
-
-**Café al Minuto — Business Analytics | Python, SQL, Power BI**
-
-Desarrollé un caso de estudio integral de Data Analytics sobre la operación de una cafetería, analizando 6.500 pedidos sintéticos para identificar patrones de demanda, comportamiento de clientes, rendimiento de productos y relación entre tiempos de espera y satisfacción. El proyecto incluye generación de datos, análisis exploratorio, SQL, visualizaciones y diseño de un Dashboard orientado a decisiones operativas.
-
----
-
-<p align="center"><sub>Proyecto de portfolio · Datos sintéticos · Analítica orientada a decisiones</sub></p>
